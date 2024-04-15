@@ -12,7 +12,7 @@ Please Create an issue first then make pull request if you have any suggestion o
 * Then fork this repository.
 * In forked repository add your changes.
 * Then make pull request with issue number.
-  
+* Wait for a review.
 
 Web link - https://alitindrawan24.github.io/2048/
 <br><br>
