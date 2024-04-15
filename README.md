@@ -1,6 +1,6 @@
 <h1 align='center'>2048</h1>
 
-Simple  Game using HTML, CSS, and JavaScript  
+Simple 2048 Game using HTML, CSS, and JavaScript  
 
 ### Note:
 Please Create an issue first then make pull request if you have any suggestion or bug report.
